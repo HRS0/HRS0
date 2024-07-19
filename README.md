@@ -4,7 +4,7 @@
 <p align="center">
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://github.com/HRS0">HRS</a>.<br> I'm a Full Stack Developer living in New Delhi, INDIA. <br><br>#typescript, #javascript, #vite, #vuejs, #node</samp>
+  <samp>Hello there. I'm <a href="https://github.com/HRS0">HRS</a>.<br> I'm a Full Stack Developer living in INDIA. <br><br>#typescript, #javascript, #vite, #vuejs, #node</samp>
   <br>
   <br>
 </p>
