@@ -1,5 +1,8 @@
 <img src="https://i.postimg.cc/cLtfBYVR/8aa0047a16ff06d786590fa6a399af13.gif" align="center" style="width: 100%" />
 
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/hrsinvitations)
+[![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github)](https://github.com/HRS0)
+
 <h2>Welcome to My Profile Page !! <img src="https://emoji.gg/assets/emoji/9932_zero_two.gif" width="36"></h2>
 
 <p align="center">
