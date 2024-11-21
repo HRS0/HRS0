@@ -14,4 +14,4 @@
 </p>
 <h2>Meet our community on Discord<img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="30"</img></h2>
 
-[![](https://images.app.goo.gl/iv57WFLAGMLQGtcx9)](https://discord.gg/znj9mS9AZu)
+![](https://discord.gg/znj9mS9AZu)
